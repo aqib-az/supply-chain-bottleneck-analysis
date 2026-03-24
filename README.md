@@ -1,13 +1,16 @@
 # 🚛 Supply Chain Bottleneck Detection Analysis
 
 ## 📌 Project Overview
-Proyek ini menggunakan dataset Supply Chain dari Kaggle untuk mengidentifikasi hambatan operasional. Fokus utama saya adalah menganalisis performa supplier dan pola keterlambatan pengiriman untuk memberikan rekomendasi yang dapat mengurangi biaya operasional.
+Analisis komprehensif untuk mengidentifikasi inefisiensi pada rantai pasok, mulai dari evaluasi performa supplier hingga optimasi rute pengiriman guna menekan biaya operasional.
+
+## Dataset
+[Supply Chain Analysis (Kaggle)](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis)
 
 ## 🎯 Business Problem
 Dalam industri logistik, ketidakpastian *lead time* dan tingginya *defect rate* dari supplier adalah biaya tersembunyi. Proyek ini bertujuan menjawab:
-1. Siapa supplier dengan risiko keterlambatan tertinggi?
-2. Jalur pengiriman mana yang paling tidak efisien?
-3. Bagaimana hubungan antara biaya manufaktur dengan kualitas produk?
+1. **Supplier Risk:** Siapa supplier dengan risiko keterlambatan tertinggi?
+2. **Logistics Efficiency:** Jalur pengiriman mana yang paling tidak efisien?
+3. **Quality vs Cost:** Bagaimana hubungan antara biaya manufaktur dengan kualitas produk?
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.x
